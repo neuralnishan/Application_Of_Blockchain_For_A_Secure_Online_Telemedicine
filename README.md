@@ -1,5 +1,5 @@
 # Secure Online Telemedicine System
-Developer - \Zayn Nissan
+Developer - \Hashcat Nissan
 ---
 ## screenshots
 ### Homepage
