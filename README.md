@@ -136,8 +136,8 @@ This project is developed for demo purpose and it's not supposed to be used in r
 
 ## Feedback
 Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Facebook](https://fb.com/)
-- [Subscribe my Channel On Youtube](https://youtube.com/)
+- [Contact on Discord](https://discordapp.com/users/717014188060442715)
+
 
 ## Coinbase Commerce
 Coinbase Commerce is a business digital payment solution provided by Coinbase that enables retailers to accept crypto payments in various digital currencies. They accept Bitcoin, Bitcoin Cash, DAI, Ethereum, Litecoin, Dogecoin, and USD Coin at the time of writing. Coinbase Commerce integrates easily into your online application and eliminates the headache of dealing with cryptocurrency payments.Coinbase and Coinbase Commerce are not synonymous. Coinbase is a cryptocurrency exchange and wallet manager, whereas Coinbase Commerce is a merchant-facing digital payment service provider.
