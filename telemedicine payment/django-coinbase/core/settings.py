@@ -20,9 +20,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-on0*yd-=7wy6!4^r^0=&^&ieg#&#+c9k_w!8yo*l6put@f(!mh'
-COINBASE_COMMERCE_API_KEY = 'Your Coinbase API KEY'
-COINBASE_CHECKOUT_ID = 'Your Coinbase Checkout ID'
+SECRET_KEY = 'Django Secret Key'
+COINBASE_COMMERCE_API_KEY = 'Your Coinbase API KEY' #Put your API  Key here
+COINBASE_CHECKOUT_ID = 'Your Coinbase Checkout ID' #Put your checkout ID here
 
 
 # SECURITY WARNING: don't run with debug turned on in production!
