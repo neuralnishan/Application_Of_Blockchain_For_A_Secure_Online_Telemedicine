@@ -138,3 +138,19 @@ This project is developed for demo purpose and it's not supposed to be used in r
 Any suggestion and feedback is welcome. You can message me on facebook
 - [Contact on Facebook](https://fb.com/)
 - [Subscribe my Channel On Youtube](https://youtube.com/)
+
+## Coinbase Commerce
+Coinbase Commerce is a business digital payment solution provided by Coinbase that enables retailers to accept crypto payments in various digital currencies. They accept Bitcoin, Bitcoin Cash, DAI, Ethereum, Litecoin, Dogecoin, and USD Coin at the time of writing. Coinbase Commerce integrates easily into your online application and eliminates the headache of dealing with cryptocurrency payments.Coinbase and Coinbase Commerce are not synonymous. Coinbase is a cryptocurrency exchange and wallet manager, whereas Coinbase Commerce is a merchant-facing digital payment service provider.
+
+The Coinbase Commerce API accepts cryptocurrency payments in two ways: Coinbase Charges and Coinbase Checkout.
+
+## Benefits of Coinbase Fees:
+1. `highly customizable`
+2. `ability to programmatically attach metadata`
+
+## Advantages of Coinbase Checkout:
+1. `works out of the box`
+1. `dashboard product management`
+3. `embedded checkout`
+
+We suggest the Charges API for most applications because it is customizable. This trumps the convenience of the Checkout API. If you're selling a set product and customisation isn't important, you can utilize the Checkout API.
