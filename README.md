@@ -25,9 +25,9 @@ Developer - \Zayn Nissan
 ### Blockchain based payment form in Coinbase Commerce
 ![payment_form snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/payment_form.png)
 ### Amounts to be paid using Coinbase Account or Bitcoin Cash,Dai,Dogecoin,Ethereum,Litecoin,USD Coin.
-![amount_to_be_paid snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/amount_to_be_paid.png)
+![amount_to_be_paid snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/amount_paid.png)
 ### Blockchain based cryptocurrency transaction using QR 
-![transaction_window snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/payment_form.png)
+![transaction_window snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/make_payment_using_bitcoin_wallet.png)
 
 
 ---
