@@ -1,7 +1,0 @@
-
-python manage.py runserver 9000
-https://testdriven.io/blog/django-coinbase/
-https://django-cryptocurrency-payment.readthedocs.io/en/latest/readme.html
-https://commerce.coinbase.com/checkout/
-
-https://dup-django-coinbase.herokuapp.com/webhook/

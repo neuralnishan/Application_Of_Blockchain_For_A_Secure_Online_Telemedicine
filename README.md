@@ -22,7 +22,7 @@ Developer - \Zayn Nissan
 ![patient prescription snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/prescription.png)
 ### Doctor & Patient Make Video Call & Chatting
 ![doctor snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/video_calling.png)
-### Blockchain based payment form in Coinbase Commerce
+### Blockchain based payment form in Coinbase Commerce Site
 ![payment_form snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/payment_form.png)
 ### Amounts to be paid using Coinbase Account or Bitcoin Cash,Dai,Dogecoin,Ethereum,Litecoin,USD Coin.
 ![amount_to_be_paid snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/amount_paid.png)
