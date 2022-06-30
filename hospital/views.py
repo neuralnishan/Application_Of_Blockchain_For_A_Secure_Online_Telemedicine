@@ -37,6 +37,7 @@ def patientclick_view(request):
     return render(request,'hospital/patientclick.html')
 
 
+@login_required(login_url='adminlogin')
 def admin_signup_view(request):
     form=forms.AdminSigupForm()
     if request.method=='POST':
@@ -557,6 +558,7 @@ def reject_appointment_view(request,pk):
 #---------------------------------------------------------------------------------
 #------------------------ DOCTOR RELATED VIEWS START ------------------------------
 #---------------------------------------------------------------------------------
+
 @login_required(login_url='doctorlogin')
 @user_passes_test(is_doctor)
 def doctor_dashboard_view(request):
@@ -590,6 +592,13 @@ def doctor_patient_view(request):
     'doctor':models.Doctor.objects.get(user_id=request.user.id), #for profile picture of doctor in sidebar
     }
     return render(request,'hospital/doctor_patient.html',context=mydict)
+
+# add prescription.html in here
+@login_required(login_url='doctorlogin')
+@user_passes_test(is_doctor)
+def prescription_view(request):
+
+    return render(request, "hospital/prescription.html")
 
 
 
@@ -672,7 +681,6 @@ def delete_appointment_view(request,pk):
     patients=models.Patient.objects.all().filter(status=True,user_id__in=patientid)
     appointments=zip(appointments,patients)
     return render(request,'hospital/doctor_delete_appointment.html',{'appointments':appointments,'doctor':doctor})
-
 
 
 #---------------------------------------------------------------------------------
