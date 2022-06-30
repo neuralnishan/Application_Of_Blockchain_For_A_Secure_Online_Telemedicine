@@ -65,7 +65,7 @@
 ### Prescription Upload Successfull Notification From Metamask And Share The Link With The Patient
 ![doctor upload prescription snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/Successful_Transaction_During_Uploading_Prescription_ON_IPFS.png)
 ### Remaining Balance in Doctor ETH Wallet After Uploading Prescription
-![doctor upload prescription snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/AmountAfterUploadingPrescription.png)
+![balance in doctor account snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/AmountAfterUploadingPrescription.png)
 ### Patient Downloads Prescription from IPFS
 ![patient prescription snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/prescription.png)
 
