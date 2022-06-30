@@ -1,5 +1,5 @@
-var TodoList = artifacts.require("./TodoList.sol");
+var SimpleStorage = artifacts.require("./SimpleStorage.sol");
 
 module.exports = function(deployer) {
-  deployer.deploy(TodoList);
+  deployer.deploy(SimpleStorage);
 };
