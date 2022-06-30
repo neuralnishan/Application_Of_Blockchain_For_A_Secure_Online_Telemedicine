@@ -1,5 +1,10 @@
 # Secure Online Telemedicine System
+<<<<<<< HEAD
 Developer - 1. Zayn Nissan
+=======
+Developers-
+            1. Zayn Nissan
+>>>>>>> c8ca38bde3fc2f079f945e0f64aa730fddd2dcb7
             2. Shafiul Bashar
             3. Rofiqul Alam Shehab
             4. Md. Asif Hossain
