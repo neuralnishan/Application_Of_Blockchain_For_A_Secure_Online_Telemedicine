@@ -1,5 +1,9 @@
 # Secure Online Telemedicine System
-Developer - \Zayn Nissan
+Developers-
+            1. Zayn Nissan
+            2. Shafiul Bashar
+            3. Rofiqul Alam Shehab
+            4. Md. Asif Hossain
 ---
 ## screenshots
 ### Homepage
