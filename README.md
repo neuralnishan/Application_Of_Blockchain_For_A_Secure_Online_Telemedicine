@@ -1,26 +1,31 @@
 # Secure Online Telemedicine System
-Developer - \Zayn Nissan
+Developer - 1. Zayn Nissan
+            2. Shafiul Bashar
+            3. Rofiqul Alam Shehab
+            4. Md. Asif Hossain
 ---
-## screenshots
+## Snapshots of our Secure Online Telemedicine Web application
+
 ### Homepage
 ![homepage snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/homepage.png)
 ### Patient Registration
 ![registration page snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/patient_registration.png)
 ### Patient Login
 ![patient login](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/patient_login.png)
-### Patient Dashboard
+### Patient's Dashboard
 ![patient dashboard snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/patient_dashboard.png)
+### Patient's Appointment
+![patient appointment snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/PatientAppointment.png)
 ### Patient Payment
 ![patient payment invoice snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/invoice.png)
-### Doctor Dashboard
+### Doctor's Dashboard
 ![doctor dashboard snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/admin_doctor.png)
-### Admin Dashboard
+### Admin's Dashboard
 ![admin dashboard snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/admin_dashboard.png)
 ### Doctor Generates Prescription 
 ![doctor prescription snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/doctor_generate_prescription.png)
-### Patient Downloads Description
-![patient prescription snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/prescription.png)
-### Doctor & Patient Make Video Call & Chatting
+
+### Doctor & Patient Make Video Call & chat together
 ![doctor snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/video_calling.png)
 ### Blockchain based payment form in Coinbase Commerce Site
 ![payment_form snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/payment_form.png)
@@ -28,6 +33,45 @@ Developer - \Zayn Nissan
 ![amount_to_be_paid snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/amount_paid.png)
 ### Blockchain based cryptocurrency transaction using QR 
 ![transaction_window snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/make_payment_using_bitcoin_wallet.png)
+### Simple Storage Smart Contract 
+![simple_storage snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/SimpleStorage.png)
+### Smart Contract Migration
+![smart contract migration snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/SmartContractsMigration.png)
+### Transaction Deployment Using Ethereum Blockchain on Ganache.
+![ganache main window snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/GanacheMainPage.png)
+### Truffle Deployment
+![truffle deploy snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/TruffleDeploy.png)
+### Importing an Ethereum wallet using secret recovery phrases into MetaMask 
+![ETH wallet import using metamask snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/MetamaskImportKey.png)
+### Importing a wallet with (100ETH in bala) from Ganache using private keys
+![ETH wallet import from ganache snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/AfterImportingWalletFromGanache.png)
+### Connecting our server with IPFS 
+![ipfs snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/IPFS.png)
+### Truffle Migration
+![truffle migation snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/TruffleMigration.png)
+### Truffle Deployment
+![truffle deployment snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/TruffleDeploy.png)
+### Smart Contract Call and Contract Creation on Ganache
+![contract call and creation snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/ContractCallandContractCreationonGanache.png)
+### An Example of a Smart Contract Call on Ganache
+![contract call and creation snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/SingleContaractCallOnGanache.png)
+### An Example of a Smart Contract Creation on Ganache
+![contract  creation snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/ContractCreationOnGanache.png)
+### Transaction Blocks on Ganache
+![transaction blocks snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/TransactioonTruffle.png)
+### Coonecting React Server with Metamask
+![react server snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/Connecting_React_Server_with_IPFS.png)
+### Doctor Uploads prescription in the IPFS Network
+![prescription upload snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/Transaction_During_Uploading_Prescription_ON_IPFS.png)
+### Prescription Upload Successfull Notification from Metamask and Share the link with the patient
+![doctor upload prescription snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/Successful_Transaction_During_Uploading_Prescription_ON_IPFS.png)
+### Remainging Balance in Doctor ETH Wallet after uploading prescription
+![doctor upload prescription snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/AmountAfterUploadingPrescription.png)
+### Patient Downloads Prescription from IPFS
+![patient prescription snap](https://github.com/zaynnissan/Application-of-Blockchain-for-a-secure-online-telemedicine/blob/master/static/screenshots/prescription.png)
+
+
+
 
 
 ---
